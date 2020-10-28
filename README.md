@@ -1,16 +1,16 @@
-### Hi there 👋
+#### Hi there 👋, I am [Donglei · 班班](https://blog.dlzhang.com)
 
-<!--
-**lei2rock/lei2rock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> An economics explorer. 
 
-Here are some ideas to get you started:
+> "Never say you know the essence, let alone the truth."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=lei2rock&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
+
+**Where to find me**
+
+- [My Blog](https://blog.dlzhang.com)
+- [Twitter](https://twitter.com/lei2rock)
+- [Weibo](https://weibo.com/7216640993)
+- [E-Mail](mailto:idonglei@foxmail.com)
+
+Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee at [afdian.net](https://afdian.net/@lei2rock).
