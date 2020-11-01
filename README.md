@@ -12,4 +12,4 @@
 - [Weibo](https://weibo.com/7216640993)
 - [E-Mail](mailto:idonglei@foxmail.com)
 
-Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee at [afdian.net](https://afdian.net/@lei2rock).
+Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee at [PayPal](https://paypal.me/lei2rock) or [爱发电](https://afdian.net/@lei2rock).
