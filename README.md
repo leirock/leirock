@@ -9,7 +9,6 @@
 **Where to find me**
 
 - [My Blog](https://blog.dlzhang.com)
-- [Twitter](https://twitter.com/lei2rock)
 - [Weibo](https://weibo.com/7216640993)
 - [E-Mail](mailto:idonglei@foxmail.com)
 
