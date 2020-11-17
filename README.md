@@ -10,5 +10,6 @@
 
 - [My Blog](https://blog.dlzhang.com)
 - [Weibo](https://weibo.com/7216640993)
+- [Email](mailto:lei2rock@outlook.com)
 
 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button. If you like my projects, you can buy me a coffee at [PayPal](https://paypal.me/lei2rock) or [afdian.net](https://afdian.net/@lei2rock).
