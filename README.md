@@ -1,14 +1,14 @@
 #### Hi there 👋, I am [Donglei · 班班](https://blog.dlzhang.com)
 
-> An economics explorer. 
-
+> A naïve explorer in economics. 
+>
 > "Never say you know the essence, let alone the truth."
 
-<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=lei2rock&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=lei2rock&show_icons=true&hide_border=true&include_all_commits=true" align="right">
 
 **Where to find me**
 
-- [My Blog](https://blog.dlzhang.com)
+- [Blog](https://blog.dlzhang.com)
 - [Weibo](https://weibo.com/7216640993)
 - [Email](mailto:lei2rock@outlook.com)
 
