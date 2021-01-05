@@ -1,4 +1,4 @@
-#### Hi there 👋, I am [Donglei · 班班](https://blog.dlzhang.com)
+#### Hi there 👋, I am [Donglei](https://dlzhang.com) @lei2rock!
 
 > A naïve explorer in economics. 
 >
