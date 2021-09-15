@@ -6,8 +6,8 @@
 
 **Where to find me**
 
-- [Blog](https://blog.dlzhang.com)
+- [Homepage](https://dlzhang.com)
 - [Weibo](https://weibo.com/leirock)
-- [Email](mailto:leirock@foxmail.com)
+- [Email](mailto:zjzdl@outlook.com)
 
 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
