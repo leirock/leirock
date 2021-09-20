@@ -1,6 +1,6 @@
 #### Hi there 👋, I am [Donglei](https://dlzhang.com) @leirock!
 
-> Naïve explorer in economics. 
+> A naïve explorer in economics
 
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=leirock&show_icons=true&hide_border=true&include_all_commits=true" align="right">
 
