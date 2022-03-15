@@ -8,7 +8,6 @@
 
 - [Homepage](https://dlzhang.com)
 - [Email](mailto:zjzdl@outlook.com)
-- [Telegram](https://t.me/LeileiRock)
 
 
 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
