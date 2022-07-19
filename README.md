@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello!
 
 
 I am Dylan Zhang, a naïve explorer in economics.
