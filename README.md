@@ -10,4 +10,4 @@ I am Dylan Zhang.
 - More about me on [homepage](https://dlzhang.com).
 - Read [blog posts](https://pinlyu.com) in Chinese ([RSS](https://pinlyu.com/atom.xml)).
 - Follow me on [Weibo](https://dlzhang.com/weibo) or [Bilibili](https://dlzhang.com/bilibili).
-- Reach me via [email](mailto:zdlzj@foxmail.com).
+- Reach me via [email](mailto:dylanzdl@foxmail.com).
